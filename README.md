@@ -6,7 +6,7 @@ Courses Database is a SQLlite database for Courses demo page witch gives back JS
 ### Endpoints
 
 `GET [/courses]` - gets all the courses\
-`GET [/courses/:id]` - gets one course based on id\
+`GET [/courses/:id]` - gets one course based on id
 
 
 ## Atributes
@@ -17,4 +17,4 @@ Courses Database is a SQLlite database for Courses demo page witch gives back JS
 `description [string]` - A brief overview of the course content\
 `address [string]` - Name of the street and number\
 `city [string]` - Name of the city where course take a place\
-`capacity [number]` - The capacity for the course\
+`capacity [number]` - The capacity for the course
